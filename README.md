@@ -13,6 +13,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://static.figma.com/app/icon/1/favicon.png" height="40" alt="figma"  />
+  <img width="12" />
+  <img src="https://lms.informatics.ru/static/images/favicon.ico" height="40" alt="informatics"  />
+  <img width="12" />
 </div>
 
 ###
