@@ -1,4 +1,4 @@
-<h1 align="center"> readme / experienced coder </h1>
+<h1 align="center"> readme / coder </h1>
 
 ###
 
